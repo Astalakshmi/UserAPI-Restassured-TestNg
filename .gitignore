@@ -1,0 +1,15 @@
+/target/
+/logs/
+/test-output/
+.classpath
+
+.settings/
+
+.project
+/bin/
+
+/test-output/
+allure-results/
+allure-report/
+
+.DS_Store
