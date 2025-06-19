@@ -58,6 +58,7 @@ The **User API** provides a RESTful interface to manage user data. This test sui
 
 ---
 
-## Author
-Astalakshmi Amulraj – QA Automation Engineer
-GitHub • LinkedIn
+##  Author
+
+**Astalakshmi Amulraj** – QA Automation Engineer  
+[GitHub](https://github.com/Astalakshmi) • [LinkedIn](https://www.linkedin.com/in/astaamul)
